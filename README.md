@@ -40,4 +40,3 @@ https://gayka116.ru/
 - **Frontend:** HTML5, CSS3, JavaScript (Vanilla)
 - **База данных:** MySQL 8.4
 - **Архитектура:** REST API для AJAX запросов
-- **Безопасность:** Хеширование паролей (password_hash), защита SQL инъекций (PDO)
